@@ -1,1 +1,29 @@
+div {
+    padding: 10px;
+    margin: 10px;
+}
 
+.borda {
+    border: 10px dashed black;
+}
+
+#bloco1 {
+    background-color: aquamarine;
+}
+
+#bloco2 {
+    background-image: url(https://i.ytimg.com/vi/JBN6LKq3Tnk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAGl5WR-MYKPaHDfo-wP5VDz25nDg);
+    background-repeat: repeat-x;
+
+}
+
+#bloco3 {
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbc.co.uk%2Fnewsround%2F54337846&psig=AOvVaw2iapC81hraHB_UO17hZzEr&ust=1758822602183000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDD_fT68Y8DFQAAAAAdAAAAABAW);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#bloco4{
+   background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Ffunny-small-dog-with-fake-mustache--5629568279220919%2F&psig=AOvVaw2ZXREi4m1r3xDqRX29cFtd&ust=1758822977175000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDYgqn88Y8DFQAAAAAdAAAAABAE);
+   background-size: cover;
+}
