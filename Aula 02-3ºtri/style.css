@@ -4,26 +4,70 @@ div {
 }
 
 .borda {
-    border: 10px dashed black;
+    border: 10px dashed rgb(255, 248, 147);
 }
 
 #bloco1 {
-    background-color: aquamarine;
+    background-color: rgb(205, 181, 243);
 }
 
 #bloco2 {
-    background-image: url(https://i.ytimg.com/vi/JBN6LKq3Tnk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAGl5WR-MYKPaHDfo-wP5VDz25nDg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNXzAMXaRs_GFMEZQe3Y-b-zaU-uV7pqHnQ&s);
     background-repeat: repeat-x;
 
 }
 
 #bloco3 {
-    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbc.co.uk%2Fnewsround%2F54337846&psig=AOvVaw2iapC81hraHB_UO17hZzEr&ust=1758822602183000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDD_fT68Y8DFQAAAAAdAAAAABAW);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNXzAMXaRs_GFMEZQe3Y-b-zaU-uV7pqHnQ&s);
     background-position: center;
     background-repeat: no-repeat;
 }
 
-#bloco4{
-   background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Ffunny-small-dog-with-fake-mustache--5629568279220919%2F&psig=AOvVaw2ZXREi4m1r3xDqRX29cFtd&ust=1758822977175000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDYgqn88Y8DFQAAAAAdAAAAABAE);
+#bloco4 {
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNXzAMXaRs_GFMEZQe3Y-b-zaU-uV7pqHnQ&s);
    background-size: cover;
 }
+
+#bloco5 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNXzAMXaRs_GFMEZQe3Y-b-zaU-uV7pqHnQ&s);
+    background-attachment: fixed;
+}
+
+#bloco6 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNXzAMXaRs_GFMEZQe3Y-b-zaU-uV7pqHnQ&ss);
+    background-repeat: no-repeat;
+    background-origin: padding-box;
+}
+
+#bloco7 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNXzAMXaRs_GFMEZQe3Y-b-zaU-uV7pqHnQ&s);
+    background-repeat: no-repeat;
+    background-origin: border-box;
+}
+
+#bloco8 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNXzAMXaRs_GFMEZQe3Y-b-zaU-uV7pqHnQ&s);
+    background-repeat: no-repeat;
+    background-origin: content-box;
+}
+
+#bloco9 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNXzAMXaRs_GFMEZQe3Y-b-zaU-uV7pqHnQ&s);
+    background-repeat: no-repeat;
+    background-origin: padding-box;
+}
+
+#bloco10 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNXzAMXaRs_GFMEZQe3Y-b-zaU-uV7pqHnQ&s);
+    background-repeat: no-repeat;
+    background-origin: border-box;
+}
+
+#bloco11 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNXzAMXaRs_GFMEZQe3Y-b-zaU-uV7pqHnQ&s);
+    background-repeat: no-repeat;
+    background-origin: center-box;
+}
+
+#bloco12 {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNXzAMXaRs_GFMEZQe3Y-b-zaU-uV7pqHnQ&s) repeat border-box;
