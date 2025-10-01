@@ -4,7 +4,7 @@ div {
 }
 
 .borda {
-    border: 10px dashed rgb(255, 248, 147);
+    border: 10px dashed black;
 }
 
 #bloco1 {
